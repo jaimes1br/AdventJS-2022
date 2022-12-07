@@ -18,7 +18,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 01  |           ¡Automatizando envolver regalos de navidad!           |       ✅        | [Mirar](Retos/01_automatizacion/automatizacion.md) |   121   |
 | 02  |                  Nadie quiere hacer horas extra                  |       ✅        | [Mirar](Retos/02_horasExtra/horasExtra.md) |   121   |
 | 03  |        ¿Cuántas cajas de regalos puede llevar Papá Noel?        |       ✅        | [Mirar](Retos/03_cajasRegalos/cajasRegalos.md) |   142   |
-| 04  |                                    |       ❌        | [Mirar](Retos/) |        |
+| 04  |              Una caja dentro de otra caja y otra...              |       ✅        | [Mirar](Retos/04_cajas/cajas.md) |   122   |
 | 05  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 06  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 07  |                                    |       ❌        | [Mirar](Retos/) |        |
