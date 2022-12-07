@@ -1,0 +1,28 @@
+{
+  "name": "adventjs-2022",
+  "version": "1.0.0",
+  "description": "Soluciones a kis retos del Advent Js 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimes1br/AdventJS-2022.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Brandon Jaimes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaimes1br/AdventJS-2022/issues"
+  },
+  "homepage": "https://github.com/jaimes1br/AdventJS-2022#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "jest": {
+    "testEnviroment": "node"
+  }
+}
