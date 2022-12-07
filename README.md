@@ -5,9 +5,8 @@ Este es un repositorio inspirado en el reto Advent.js, el cual contiene **mis so
 Advent.js, es un reto pensado en mejor tu lógica de programación, el cual consiste en **24 días, 24 retos** de programación con ```JavaScript```
 
 <p align="center"> 
-  <img width="460" height="300" src=""/>
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/91866094/206088511-972c5177-74cf-48fc-be29-c42e0a51fb6e.png"/>
 </p>
-
 
 <h3 align="center">🧑‍🚀 24 días de retos con JavaScript • <a href="https://adventjs.dev">adventJS</a> 🚀</h3>
 
