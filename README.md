@@ -22,7 +22,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 05  |                   Optimizando viajes de Santa                   |       ✅        | [Mirar](Retos/05_viajesSanta/viajesSanta.md) |   123   |
 | 06  |                    Creando adornos navideños                    |       ✅        | [Mirar](Retos/06_adornosNavidenos/adornosNavidenos.md) |   160   |
 | 07  |                  Haciendo inventario de regalos                  |       ✅        | [Mirar](Retos/07_inventarioRegalos/inventarioRegalos.md) |   200   |
-| 08  |                                    |       ❌        | [Mirar](Retos/) |        |
+| 08  |                    ¡Necesitamos un mecánico!                    |       ✅        | [Mirar](Retos/08_mecanico/mecanico.md) |   200   |
 | 09  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 10  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 11  |                                    |       ❌        | [Mirar](Retos/) |        |
