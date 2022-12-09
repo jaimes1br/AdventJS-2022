@@ -20,7 +20,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 03  |        ¿Cuántas cajas de regalos puede llevar Papá Noel?        |       ✅        | [Mirar](Retos/03_cajasRegalos/cajasRegalos.md) |   142   |
 | 04  |              Una caja dentro de otra caja y otra...              |       ✅        | [Mirar](Retos/04_cajas/cajas.md) |   122   |
 | 05  |                   Optimizando viajes de Santa                   |       ✅        | [Mirar](Retos/05_viajesSanta/viajesSanta.md) |   123   |
-| 06  |                                    |       ❌        | [Mirar](Retos/) |        |
+| 06  |                    Creando adornos navideños                    |       ✅        | [Mirar](Retos/06_adornosNavidenos/adornosNavidenos.md) |   160   |
 | 07  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 08  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 09  |                                    |       ❌        | [Mirar](Retos/) |        |
