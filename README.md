@@ -24,7 +24,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 07  |                  Haciendo inventario de regalos                  |       ✅        | [Mirar](Retos/07_inventarioRegalos/inventarioRegalos.md) |   200   |
 | 08  |                    ¡Necesitamos un mecánico!                    |       ✅        | [Mirar](Retos/08_mecanico/mecanico.md) |   200   |
 | 09  |                    Las locas luces de Navidad                    |       ✅        | [Mirar](Retos/09_luces/luces.md) |   300   |
-| 10  |                                    |       ❌        | [Mirar](Retos/) |        |
+| 10  |                 El salto del trineo de Papá Noel                 |       ✅        | [Mirar](Retos/10_saltoTrineo/saltoTrineo.md) |   260   |
 | 11  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 12  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 13  |                                    |       ❌        | [Mirar](Retos/) |        |
