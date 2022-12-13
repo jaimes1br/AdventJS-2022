@@ -27,7 +27,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 10  |                 El salto del trineo de Papá Noel                 |       ✅        | [Mirar](Retos/10_saltoTrineo/saltoTrineo.md) |   260   |
 | 11  |                    Papá Noel es Scrum Master                    |       ✅        | [Mirar](Retos/11_scrum/scrum.md) |   220   |
 | 12  |                   Trineos eléctricos, ¡guau!                   |       ✅        | [Mirar](Retos/12_trineosElectricos/trineosElectricos.md) |   360   |
-| 13  |                                    |       ❌        | [Mirar](Retos/) |        |
+| 13  |               Backup de los archivos de Papá Noel               |       ✅        | [Mirar](Retos/13_backup/backup.md) |   300   |
 | 14  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 15  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 16  |                                    |       ❌        | [Mirar](Retos/) |        |
