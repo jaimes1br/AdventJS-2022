@@ -29,7 +29,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 12  |                   Trineos eléctricos, ¡guau!                   |       ✅        | [Mirar](Retos/12_trineosElectricos/trineosElectricos.md) |   360   |
 | 13  |               Backup de los archivos de Papá Noel               |       ✅        | [Mirar](Retos/13_backup/backup.md) |   300   |
 | 14  |                         El mejor camino                         |       ✅        | [Mirar](Retos/14_mejorCamino/mejorCamino.md) |   140   |
-| 15  |                                    |       ❌        | [Mirar](Retos/) |        |
+| 15  |                  Decorando el árbol de Navidad                  |       ✅        | [Mirar](Retos/15_decorandoArbol/decorandoArbol.md) |   200   |
 | 16  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 17  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 18  |                                    |       ❌        | [Mirar](Retos/) |        |
