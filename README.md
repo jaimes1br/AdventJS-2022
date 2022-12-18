@@ -31,7 +31,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 14  |                         El mejor camino                         |       ✅        | [Mirar](Retos/14_mejorCamino/mejorCamino.md) |   140   |
 | 15  |                  Decorando el árbol de Navidad                  |       ✅        | [Mirar](Retos/15_decorandoArbol/decorandoArbol.md) |   200   |
 | 16  |               Arreglando las puertas de Papá Noel               |       ✅        | [Mirar](Retos/16_cartas/cartas.md) |   200   |
-| 17  |                                    |       ❌        | [Mirar](Retos/) |        |
+| 17  |                  Llevando los regalos en sacos                  |       ✅        | [Mirar](Retos/17_regalosSaco/regalosSaco.md) |   140   |
 | 18  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 20  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 19  |                                    |       ❌        | [Mirar](Retos/) |        |
