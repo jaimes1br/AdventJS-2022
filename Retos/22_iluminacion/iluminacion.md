@@ -45,18 +45,17 @@ function checkStepNumbers(systemNames, stepNumbers) {
     let temp = []
     u.forEach(n => temp.push(stepNumbers.filter((_,i) => systemNames[i] == n)))
 
-    return temp.reduce((acc,v) => {
-        return acc && v.slice(1).reduce((_,c,i) => temp[0][i] < c ,true)
-    },true)
-
+    return temp.every(v => {
+        return v.slice(1).every((c,i) => v[i] < c)
+    })
 }
 ```
 
 ---
 
-### Puntos conseguidos: 360
+### Puntos conseguidos: 400
 
-* 3030 ops/s
+* 3189 ops/s
 * **Complejidad cognitiva:** 1
 
 
