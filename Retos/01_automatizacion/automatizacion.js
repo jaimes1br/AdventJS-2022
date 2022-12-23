@@ -1,7 +1,7 @@
 const gifts = ['cat', 'game', 'socks']
 const wrapped = wrapping(gifts)
 
-console.log(wrapped)
+// console.log(wrapped)
 
 /**
  * wrapping allows us to use an array of gifts that we will return but now as wrapped gifts
@@ -16,3 +16,5 @@ function wrapping(gifts){
         return end + '\n*'+ gift + '*\n' + end
     }))
 }
+
+module.exports = wrapping

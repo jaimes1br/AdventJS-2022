@@ -2,9 +2,10 @@
   "name": "adventjs-2022",
   "version": "1.0.0",
   "description": "Soluciones a kis retos del Advent Js 2022",
-  "main": "index.js",
+  "main": "automatizacion.js",
   "scripts": {
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "test:1": "jest -i Retos/01_automatizacion/reto.test.js"
   },
   "repository": {
     "type": "git",
@@ -21,8 +22,5 @@
   "homepage": "https://github.com/jaimes1br/AdventJS-2022#readme",
   "devDependencies": {
     "jest": "^29.3.1"
-  },
-  "jest": {
-    "testEnviroment": "node"
   }
 }
