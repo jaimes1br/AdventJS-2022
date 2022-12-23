@@ -34,7 +34,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 17  |                  Llevando los regalos en sacos                  |       ✅        | [Mirar](Retos/17_regalosSaco/regalosSaco.md) |   140   |
 | 18  |                     ¡Nos quedamos sin tinta!                     |       ✅        | [Mirar](Retos/18_sinTinta/sinTinta.md) |   200   |
 | 19  |                      Ordenando los regalos                      |       ✅        | [Mirar](Retos/19_ordenandoRegalos/ordenandoRegalos.md) |   260   |
-| 20  |                       Más viajes retadores                       |       ❌        | [Mirar](Retos/) |   ---   |
+| 20  |                       Más viajes retadores                       |       ✅        | [Mirar](Retos/20_viajesRetadores/README.md) |    10   |
 | 21  |                   Creando la tabla de regalos                   |       ✅        | [Mirar](Retos/21_tablaRegalos/tablaRegalos.md) |   300   |
 | 22  |                    La iluminación en sintonía                    |       ✅        | [Mirar](Retos/22_iluminacion/iluminacion.md) |   400   |
 | 23  |                     Compilador de Papá Noel                     |       ✅        | [Mirar](Retos/23_complilador/README.md) |    10   |
