@@ -16,3 +16,5 @@ function checkPart(part) {
         return (acc += tempStr.join() == tempStr.reverse().join())
     },0) >= 1
 }
+
+module.exports = checkPart
