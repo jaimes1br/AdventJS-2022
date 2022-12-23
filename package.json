@@ -7,7 +7,8 @@
     "test": "jest --verbose",
     "test:1": "jest -i Retos/01_automatizacion/reto.test.js",
     "test:2": "jest -i Retos/02_horasExtra/reto.test.js",
-    "test:3": "jest -i Retos/03_cajasRegalos/reto.test.js"
+    "test:3": "jest -i Retos/03_cajasRegalos/reto.test.js",
+    "test:4": "jest -i Retos/04_cajas/reto.test.js"
   },
   "repository": {
     "type": "git",

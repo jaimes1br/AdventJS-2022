@@ -4,7 +4,7 @@ const boxes = [
     { l: 3, w: 3, h: 12 },
   ]
   
-console.log(fitsInOneBox(boxes))
+// console.log(fitsInOneBox(boxes))
 
 /**
  * fitsInOneBox returns a value if it is possible to store all the boxes inside each other
@@ -28,4 +28,4 @@ function fitsInOneBox(boxes) {
     return flag
 }
 
-
+module.exports = fitsInOneBox
