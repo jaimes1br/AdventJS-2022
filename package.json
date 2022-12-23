@@ -12,7 +12,8 @@
     "test:5": "jest -i Retos/05_viajesSanta/reto.test.js",
     "test:6": "jest -i Retos/06_adornosNavidenos/reto.test.js",
     "test:7": "jest -i Retos/07_inventarioRegalos/reto.test.js",
-    "test:8": "jest -i Retos/08_mecanico/reto.test.js"
+    "test:8": "jest -i Retos/08_mecanico/reto.test.js",
+    "test:9": "jest -i Retos/09_luces/reto.test.js"
   },
   "repository": {
     "type": "git",

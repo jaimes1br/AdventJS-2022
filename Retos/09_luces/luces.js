@@ -1,6 +1,6 @@
-console.log(countTime([0, 1, 1, 0, 1]))
-console.log(countTime([0, 0, 0, 1]))
-console.log(countTime([0, 0, 1, 0, 0]))
+// console.log(countTime([0, 1, 1, 0, 1]))
+// console.log(countTime([0, 0, 0, 1]))
+// console.log(countTime([0, 0, 1, 0, 0]))
 
 /**
  * 
@@ -16,5 +16,4 @@ function countTime(leds) {
     return count * 7
 }
 
-
-
+module.exports = countTime
