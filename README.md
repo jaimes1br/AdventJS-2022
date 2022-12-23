@@ -20,23 +20,23 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 03  |        ¿Cuántas cajas de regalos puede llevar Papá Noel?        |       ✅        | [Mirar](Retos/03_cajasRegalos/README.md) |   142   |
 | 04  |              Una caja dentro de otra caja y otra...              |       ✅        | [Mirar](Retos/04_cajas/README.md) |   122   |
 | 05  |                   Optimizando viajes de Santa                   |       ✅        | [Mirar](Retos/05_viajesSanta/README.md) |   123   |
-| 06  |                    Creando adornos navideños                    |       ✅        | [Mirar](Retos/06_adornosNavidenos/) |   160   |
-| 07  |                  Haciendo inventario de regalos                  |       ✅        | [Mirar](Retos/07_inventarioRegalos/inventarioRegalos.md) |   200   |
-| 08  |                    ¡Necesitamos un mecánico!                    |       ✅        | [Mirar](Retos/08_mecanico/mecanico.md) |   200   |
-| 09  |                    Las locas luces de Navidad                    |       ✅        | [Mirar](Retos/09_luces/luces.md) |   300   |
-| 10  |                 El salto del trineo de Papá Noel                 |       ✅        | [Mirar](Retos/10_saltoTrineo/saltoTrineo.md) |   260   |
-| 11  |                    Papá Noel es Scrum Master                    |       ✅        | [Mirar](Retos/11_scrum/scrum.md) |   220   |
-| 12  |                   Trineos eléctricos, ¡guau!                   |       ✅        | [Mirar](Retos/12_trineosElectricos/trineosElectricos.md) |   360   |
-| 13  |               Backup de los archivos de Papá Noel               |       ✅        | [Mirar](Retos/13_backup/backup.md) |   300   |
-| 14  |                         El mejor camino                         |       ✅        | [Mirar](Retos/14_mejorCamino/mejorCamino.md) |   140   |
-| 15  |                  Decorando el árbol de Navidad                  |       ✅        | [Mirar](Retos/15_decorandoArbol/decorandoArbol.md) |   200   |
-| 16  |               Arreglando las puertas de Papá Noel               |       ✅        | [Mirar](Retos/16_cartas/cartas.md) |   200   |
-| 17  |                  Llevando los regalos en sacos                  |       ✅        | [Mirar](Retos/17_regalosSaco/regalosSaco.md) |   140   |
-| 18  |                     ¡Nos quedamos sin tinta!                     |       ✅        | [Mirar](Retos/18_sinTinta/sinTinta.md) |   200   |
-| 19  |                      Ordenando los regalos                      |       ✅        | [Mirar](Retos/19_ordenandoRegalos/ordenandoRegalos.md) |   260   |
+| 06  |                    Creando adornos navideños                    |       ✅        | [Mirar](Retos/06_adornosNavidenos/README.md) |   160   |
+| 07  |                  Haciendo inventario de regalos                  |       ✅        | [Mirar](Retos/07_inventarioRegalos/README.md) |   200   |
+| 08  |                    ¡Necesitamos un mecánico!                    |       ✅        | [Mirar](Retos/08_mecanico/README.md) |   200   |
+| 09  |                    Las locas luces de Navidad                    |       ✅        | [Mirar](Retos/09_luces/README.md) |   300   |
+| 10  |                 El salto del trineo de Papá Noel                 |       ✅        | [Mirar](Retos/10_saltoTrineo/README.md) |   260   |
+| 11  |                    Papá Noel es Scrum Master                    |       ✅        | [Mirar](Retos/11_scrum/README.md) |   220   |
+| 12  |                   Trineos eléctricos, ¡guau!                   |       ✅        | [Mirar](Retos/12_trineosElectricos/README.md) |   360   |
+| 13  |               Backup de los archivos de Papá Noel               |       ✅        | [Mirar](Retos/13_backup/README.md) |   300   |
+| 14  |                         El mejor camino                         |       ✅        | [Mirar](Retos/14_mejorCamino/README.md) |   140   |
+| 15  |                  Decorando el árbol de Navidad                  |       ✅        | [Mirar](Retos/15_decorandoArbol/README.md) |   200   |
+| 16  |               Arreglando las puertas de Papá Noel               |       ✅        | [Mirar](Retos/16_cartas/README.md) |   200   |
+| 17  |                  Llevando los regalos en sacos                  |       ✅        | [Mirar](Retos/17_regalosSaco/README.md) |   140   |
+| 18  |                     ¡Nos quedamos sin tinta!                     |       ✅        | [Mirar](Retos/18_sinTinta/README.md) |   200   |
+| 19  |                      Ordenando los regalos                      |       ✅        | [Mirar](Retos/19_ordenandoRegalos/README.md) |   260   |
 | 20  |                       Más viajes retadores                       |       ✅        | [Mirar](Retos/20_viajesRetadores/README.md) |    10   |
-| 21  |                   Creando la tabla de regalos                   |       ✅        | [Mirar](Retos/21_tablaRegalos/tablaRegalos.md) |   300   |
-| 22  |                    La iluminación en sintonía                    |       ✅        | [Mirar](Retos/22_iluminacion/iluminacion.md) |   400   |
+| 21  |                   Creando la tabla de regalos                   |       ✅        | [Mirar](Retos/21_tablaRegalos/README.md) |   300   |
+| 22  |                    La iluminación en sintonía                    |       ✅        | [Mirar](Retos/22_iluminacion/README.md) |   400   |
 | 23  |                     Compilador de Papá Noel                     |       ✅        | [Mirar](Retos/23_complilador/README.md) |    10   |
 | 24  |                                    |       ❌        | [Mirar](Retos/) |        |
 
