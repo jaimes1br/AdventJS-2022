@@ -3,7 +3,7 @@ const cubeOfOne = createCube(1)
 // console.log(cubeOfOne)
 
 const cubeOfTwo = createCube(2)
-console.log(cubeOfTwo)
+// console.log(cubeOfTwo)
 
 const cube = createCube(6)
 // console.log(cube)
@@ -28,3 +28,5 @@ function createCube(size) {
 
     return (cube + cubeI).slice(0,-1)
 }
+
+module.exports = createCube
