@@ -2,7 +2,7 @@ const giftsCities = [12, 3, 11, 5, 7]
 const maxGifts = 20
 const maxCities = 3
 
-console.log(getMaxGifts(giftsCities, maxGifts, maxCities)) //20 
+// console.log(getMaxGifts(giftsCities, maxGifts, maxCities)) //20 
 
 /**
  * Return the maximum number of gifts to give.
@@ -29,3 +29,4 @@ function getMaxGifts(giftsCities, maxGifts, maxCities){
     return data.length > 0 ? Math.max(...data) : 0;
 }
 
+module.exports = getMaxGifts
