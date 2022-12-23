@@ -51,7 +51,7 @@ Para instalar `Jest` ejecuta el comando
 npm install
 ```
 
-Cada uno de los retos contienen en su respectiva carpeta un archivo llamado `reto.test.js`. Este archivo contiene todos los test disponibles mostrados al ejecutar el código propuesto en el entorno del Adventjs (solo los retos disponibles 🔓. Puedes revisar las pruebas de cada reto corriendo el comando `npm run test:x`.
+Cada uno de los retos contienen en su respectiva carpeta un archivo llamado `reto.test.js`. Este archivo contiene todos los test disponibles mostrados al ejecutar el código propuesto en el entorno del Adventjs (solo los retos disponibles 🔓). Puedes revisar las pruebas de cada reto corriendo el comando `npm run test:x`.
 
 ```bash
 npm run test # Para correr todos los test de todos los retos
