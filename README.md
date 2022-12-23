@@ -39,3 +39,24 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 22  |                    La iluminación en sintonía                    |       ✅        | [Mirar](Retos/22_iluminacion/iluminacion.md) |   400   |
 | 23  |                                    |       ❌        | [Mirar](Retos/) |        |
 | 24  |                                    |       ❌        | [Mirar](Retos/) |        |
+
+
+### 🧪 Tests
+
+Antes de poder ejecutar cualquier prueba, es necesario instalar la dependencia de `Jest`. `Jest` es un marco de pruebas para JS.
+
+Para instalar `Jest` ejecuta el comando 
+
+```bash
+npm install
+```
+
+Cada uno de los retos contienen en su respectiva carpeta un archivo llamado `reto.test.js`. Este archivo contiene todos los test disponibles mostrados al ejecutar el código propuesto en el entorno del Adventjs (solo los retos disponibles 🔓. Puedes revisar las pruebas de cada reto corriendo el comando `npm run test:x`.
+
+```bash
+npm run test # Para correr todos los test de todos los retos
+npm run test:n # n siendo el número del reto
+
+#Ejemplo
+npm run test:1 # Ejectuta el test del reto 1
+```
