@@ -1,7 +1,7 @@
 const year = 2022
 const holidays = ['01/06', '04/01', '12/25']
 
-console.log(countHours(year, holidays))
+// console.log(countHours(year, holidays))
 
 /**
  * countHours returns the number of overtime hours to be worked in a year
@@ -18,3 +18,5 @@ function countHours(year, holidays){
      })
     return data.reduce((acc,num) => acc + num,0)
 }
+
+module.exports = countHours

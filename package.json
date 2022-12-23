@@ -5,7 +5,9 @@
   "main": "automatizacion.js",
   "scripts": {
     "test": "jest --verbose",
-    "test:1": "jest -i Retos/01_automatizacion/reto.test.js"
+    "test:1": "jest -i Retos/01_automatizacion/reto.test.js",
+    "test:2": "jest -i Retos/02_horasExtra/reto.test.js"
+
   },
   "repository": {
     "type": "git",
