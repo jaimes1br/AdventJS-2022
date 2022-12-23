@@ -15,12 +15,12 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 
 |  #  |                  Reto                       |   Disponible    |                Solución                  |  Puntos  |
 | :-: | :------------------------------------------------------------------: | :------------:  | :----------------------------------------: | :---------: |
-| 01  |           ¡Automatizando envolver regalos de navidad!           |       ✅        | [Mirar](Retos/01_automatizacion/automatizacion.md) |   121   |
-| 02  |                  Nadie quiere hacer horas extra                  |       ✅        | [Mirar](Retos/02_horasExtra/horasExtra.md) |   121   |
-| 03  |        ¿Cuántas cajas de regalos puede llevar Papá Noel?        |       ✅        | [Mirar](Retos/03_cajasRegalos/cajasRegalos.md) |   142   |
-| 04  |              Una caja dentro de otra caja y otra...              |       ✅        | [Mirar](Retos/04_cajas/cajas.md) |   122   |
-| 05  |                   Optimizando viajes de Santa                   |       ✅        | [Mirar](Retos/05_viajesSanta/viajesSanta.md) |   123   |
-| 06  |                    Creando adornos navideños                    |       ✅        | [Mirar](Retos/06_adornosNavidenos/adornosNavidenos.md) |   160   |
+| 01  |           ¡Automatizando envolver regalos de navidad!           |       ✅        | [Mirar](Retos/01_automatizacion/README.md) |   121   |
+| 02  |                  Nadie quiere hacer horas extra                  |       ✅        | [Mirar](Retos/02_horasExtra/README.md) |   121   |
+| 03  |        ¿Cuántas cajas de regalos puede llevar Papá Noel?        |       ✅        | [Mirar](Retos/03_cajasRegalos/README.md) |   142   |
+| 04  |              Una caja dentro de otra caja y otra...              |       ✅        | [Mirar](Retos/04_cajas/README.md) |   122   |
+| 05  |                   Optimizando viajes de Santa                   |       ✅        | [Mirar](Retos/05_viajesSanta/README.md) |   123   |
+| 06  |                    Creando adornos navideños                    |       ✅        | [Mirar](Retos/06_adornosNavidenos/) |   160   |
 | 07  |                  Haciendo inventario de regalos                  |       ✅        | [Mirar](Retos/07_inventarioRegalos/inventarioRegalos.md) |   200   |
 | 08  |                    ¡Necesitamos un mecánico!                    |       ✅        | [Mirar](Retos/08_mecanico/mecanico.md) |   200   |
 | 09  |                    Las locas luces de Navidad                    |       ✅        | [Mirar](Retos/09_luces/luces.md) |   300   |
@@ -37,7 +37,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 20  |                       Más viajes retadores                       |       ❌        | [Mirar](Retos/) |   ---   |
 | 21  |                   Creando la tabla de regalos                   |       ✅        | [Mirar](Retos/21_tablaRegalos/tablaRegalos.md) |   300   |
 | 22  |                    La iluminación en sintonía                    |       ✅        | [Mirar](Retos/22_iluminacion/iluminacion.md) |   400   |
-| 23  |                                    |       ❌        | [Mirar](Retos/) |        |
+| 23  |                     Compilador de Papá Noel                     |       ✅        | [Mirar](Retos/23_complilador/README.md) |    10   |
 | 24  |                                    |       ❌        | [Mirar](Retos/) |        |
 
 
