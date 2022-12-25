@@ -38,7 +38,7 @@ Advent.js, es un reto pensado en mejor tu lógica de programación, el cual cons
 | 21  |                   Creando la tabla de regalos                   |       ✅        | [Mirar](Retos/21_tablaRegalos/README.md) |   300   |
 | 22  |                    La iluminación en sintonía                    |       ✅        | [Mirar](Retos/22_iluminacion/README.md) |   400   |
 | 23  |                     Compilador de Papá Noel                     |       ✅        | [Mirar](Retos/23_complilador/README.md) |    10   |
-| 24  |                                    |       ❌        | [Mirar](Retos/) |        |
+| 24  |                  El último reto es un laberinto                  |       ✅        | [Mirar](Retos/24_laberinto/README.md) |   150   |
 
 
 ### 🧪 Tests
