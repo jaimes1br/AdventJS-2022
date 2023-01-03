@@ -1,6 +1,6 @@
 
 
-console.log(carryGifts(['game', 'bike', 'book', 'toy'], 10))
+// console.log(carryGifts(['game', 'bike', 'book', 'toy'], 10))
 // console.log(carryGifts(['game', 'bike', 'book', 'toy'], 7))
 // console.log(carryGifts(['game', 'bike', 'book', 'toy'], 4));
 // console.log(carryGifts(['toy', 'gamme', 'toy', 'bike'], 6));
@@ -33,3 +33,5 @@ function carryGifts(gifts, maxWeight) {
     return sacos.map(saco => saco.join(' '))
 
 }
+
+module.exports = carryGifts
