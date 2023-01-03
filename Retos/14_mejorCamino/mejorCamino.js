@@ -1,5 +1,5 @@
-console.log(getOptimalPath([[0], [2, 3]]))
-console.log(getOptimalPath([[0], [3, 4], [9, 8, 1]]) );
+// console.log(getOptimalPath([[0], [2, 3]]))
+// console.log(getOptimalPath([[0], [3, 4], [9, 8, 1]]) );
 
 /**
  * 
@@ -24,3 +24,5 @@ function getOptimalPath(path) {
 
     return Math.min(...paths)
 }
+
+module.exports = getOptimalPath
