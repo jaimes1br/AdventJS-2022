@@ -29,19 +29,6 @@
     "test:22": "jest -i Retos/22_iluminacion/reto.test.js",
     "test:23": "jest -i Retos/23_complilador/reto.test.js",
     "test:24": "jest -i Retos/24_laberinto/reto.test.js"
-
-
-
-
-
-
-
-
-
-
-
-
-
   },
   "repository": {
     "type": "git",
