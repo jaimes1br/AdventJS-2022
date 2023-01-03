@@ -6,7 +6,7 @@ const sleighs = [
   { name: "Midu", consumption: 1 }
 ]
 
-console.log(selectSleigh(distance, sleighs))
+// console.log(selectSleigh(distance, sleighs))
 
 /**
  * 
@@ -20,3 +20,5 @@ function selectSleigh(distance, sleighs) {
   let names = sleighs.filter(sleigh => distance * sleigh.consumption <= 20 )
   return names.at(-1) ? names.at(-1).name : null 
 }
+
+module.exports = selectSleigh
