@@ -1,8 +1,8 @@
-console.log(printTable([
-    { name: 'Game', quantity: 2 },
-    { name: 'Bike', quantity: 1 },
-    { name: 'Book', quantity: 3 }
-  ]));
+// console.log(printTable([
+//     { name: 'Game', quantity: 2 },
+//     { name: 'Bike', quantity: 1 },
+//     { name: 'Book', quantity: 3 }
+//   ]));
 
 //   console.log(printTable([
 //     { name: 'Toy', quantity: 12 },
@@ -37,3 +37,5 @@ function printTable(gifts) {
  
     return top + table + bottom
 }
+
+module.exports = printTable
