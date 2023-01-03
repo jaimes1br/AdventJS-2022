@@ -21,7 +21,9 @@
     "test:14": "jest -i Retos/14_mejorCamino/reto.test.js",
     "test:15": "jest -i Retos/15_decorandoArbol/reto.test.js",
     "test:16": "jest -i Retos/16_cartas/reto.test.js",
-    "test:17": "jest -i Retos/17_regalosSaco/reto.test.js"
+    "test:17": "jest -i Retos/17_regalosSaco/reto.test.js",
+    "test:18": "jest -i Retos/18_sinTinta/reto.test.js"
+
 
 
 
