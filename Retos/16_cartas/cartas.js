@@ -2,7 +2,7 @@
 // console.log(fixLetter(` hello,  how are you??     do you know if santa claus exists?  i really hope he does!  bye  `));
 // console.log(fixLetter("  Hi! Santa claus. I'm a girl from Barcelona , Spain . please, send me a bike.  Is it possible?"))
 // console.log(fixLetter("Hey santa Claus .  I want a bike.  \n I want a videogame!"))
-console.log(fixLetter('  hi,santa claus. are you there ?   '));
+// console.log(fixLetter('  hi,santa claus. are you there ?   '));
 
 /**
  * 
@@ -22,3 +22,5 @@ function fixLetter(letter) {
         .replace(/claus/g,'Claus')
         .replace(/,([A-z])/,(_,c) =>`, ${c}`)
 }
+
+module.exports = fixLetter
