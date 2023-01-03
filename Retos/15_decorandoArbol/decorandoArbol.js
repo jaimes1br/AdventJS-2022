@@ -1,5 +1,5 @@
 
-console.log(decorateTree('B P R P'))
+// console.log(decorateTree('B P R P'))
 // console.log(decorateTree('B B'));
 
 /**
@@ -33,4 +33,6 @@ function decorateTree(base){
 
     return temp.reverse().map(e => e.join(' '))
 }
+
+module.exports = decorateTree
 

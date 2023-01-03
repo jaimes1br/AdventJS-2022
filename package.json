@@ -18,7 +18,9 @@
     "test:11": "jest -i Retos/11_scrum/reto.test.js",
     "test:12": "jest -i Retos/12_trineosElectricos/reto.test.js",
     "test:13": "jest -i Retos/13_backup/reto.test.js",
-    "test:14": "jest -i Retos/14_mejorCamino/reto.test.js"
+    "test:14": "jest -i Retos/14_mejorCamino/reto.test.js",
+    "test:15": "jest -i Retos/15_decorandoArbol/reto.test.js"
+
 
 
 
