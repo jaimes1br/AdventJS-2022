@@ -23,7 +23,9 @@
     "test:16": "jest -i Retos/16_cartas/reto.test.js",
     "test:17": "jest -i Retos/17_regalosSaco/reto.test.js",
     "test:18": "jest -i Retos/18_sinTinta/reto.test.js",
-    "test:19": "jest -i Retos/19_ordenandoRegalos/reto.test.js"
+    "test:19": "jest -i Retos/19_ordenandoRegalos/reto.test.js",
+    "test:20": "jest -i Retos/20_viajesRetadores/reto.test.js"
+
 
 
 

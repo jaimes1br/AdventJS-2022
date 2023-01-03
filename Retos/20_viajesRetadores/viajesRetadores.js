@@ -9,7 +9,7 @@ const reindeerTypes = [
     { country: 'Spain', weight: 30 },
   ]
   
-console.log(howManyReindeers(reindeerTypes, gifts))
+// console.log(howManyReindeers(reindeerTypes, gifts))
 
 function howManyReindeers(reindeerTypes, gifts) {
  
