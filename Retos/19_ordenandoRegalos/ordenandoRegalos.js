@@ -2,12 +2,12 @@
 const toys = ['ball', 'doll', 'car', 'puzzle']
 const positions = [2, 3, 1, 0]
 
-console.log(sortToys(toys, positions))
+// console.log(sortToys(toys, positions))
 
 const moreToys = ['pc', 'xbox', 'ps4', 'switch', 'nintendo']
 const morePositions = [8, 6, 5, 7, 9]
 
-console.log(sortToys(moreToys, morePositions))
+// console.log(sortToys(moreToys, morePositions))
 
 /**
  * 
@@ -28,3 +28,5 @@ function sortToys(toys, positions) {
 
     return temp
 }
+
+module.exports = sortToys
